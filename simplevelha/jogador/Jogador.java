@@ -1,6 +1,7 @@
 package jogador;
 
-public interface Jogador {
-    Marca getMarca();
-    void facaSuaJogada();
+public interface Jogador
+{
+    public Marca getMarca ();
+    public void facaSuaJogada ();
 }
